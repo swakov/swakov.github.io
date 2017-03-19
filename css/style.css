@@ -1,0 +1,85 @@
+.profile_pic{
+	max-width: 100%;
+	min-width: 100%;
+	margin-bottom: 5px;
+}
+
+h1{
+	color: yellow;
+	border-width: 0px;
+	border-radius: 500px;
+	border-color: green;
+	border-style: solid;
+	font-style: verdana;
+	font-family: 'Jim Nightshade', cursive;
+	text-align: center;
+	font-size: 80;
+
+}
+
+.navbar-nav{
+	color: purple;
+	text-align: center;
+	font-style: verdana;
+	font-size: 18;
+	justify-content: center;
+	width: 100%;
+}
+
+.body{
+	font-family: 'Cuprum', sans-serif;
+	background: url('../img/blue.jpg');
+	background-size: cover;
+}
+
+.card{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.main-text-shadow{
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 17;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+h5{
+	color: yellow;
+	border-color: green;
+	font-style: verdana;
+	font-family: 'Jim Nightshade', cursive;
+	text-align: left;
+	font-size: 80;
+}
+
+.main-text{
+	text-align: justify;
+    text-justify: inter-word;
+    font-size: 17;
+    color: white;
+}
+
+
+.istra{
+
+}
+
+.container_home{
+	max-width: 700px;
+
+}
+
+.video1{
+	
+}
+
+.home-page{
+	background: url('../img/sea.jpg');
+	background-size: cover;
+}
+
+
+
+
